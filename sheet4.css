@@ -1,0 +1,31 @@
+ body{
+  background-image: url("789.jpg");
+  background-position: top right;
+  background-repeat: no-repeat;
+  background-attachment: fixed; }
+h1 {
+  color: chocolate; }
+ul {
+  list-style-type: square; } 
+ol {
+    list-style-type: upper-roman; }
+ol.B {
+    list-style-type: lower-roman; }
+a:link { 
+    text-decoration: none;
+    color: blue; }
+a:visited { 
+    text-decoration: none;
+    color: red; }
+a:hover { 
+    text-decoration: underline;
+    color: green; }
+a:active { 
+    text-decoration: underline;
+    color: black; }
+.special1 {
+    font-size: 14px;
+    color: cornflowerblue; }
+.special2 { 
+    font-size: 12px;
+    color: palevioletred; }
